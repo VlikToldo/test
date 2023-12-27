@@ -117,7 +117,7 @@ export const FormStyled = styled.form`
     border: 1px solid #407BFF;
     border-radius: 6px;
   
-    color: '#92b1f6;
+    color: #92b1f6;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.25;
